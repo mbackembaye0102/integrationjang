@@ -1,0 +1,279 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+
+ .back{
+margin-top: -15px;
+  float: left;
+
+ }
+
+.menu{
+  background-image: url("images/image.jpg");
+  background-size: cover;
+  height: 850px;
+}
+
+
+.inscription{
+  float: right;
+  margin-top: 35px;
+  margin-right: 30px;
+  font-size: 22px;
+  font-weight: bolder;
+
+}
+.connexion{
+  float: right;
+  margin-top: 35px;
+  margin-right: 30px;
+  font-size: 22px;
+  font-weight: bolder;
+
+}
+
+.p1{
+  font-size: 150px;
+  font-weight: bolder;
+  color: white;
+  margin-top: 150px;
+  line-height: 120px;
+  margin-left: 50px;
+}
+
+.p2{
+  color: white;
+  font-size: 40px;
+  font-weight: bolder;
+  margin-left: 55px;
+  margin-top: 45px;
+
+}
+
+.p3{
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 55px;
+  margin-top: 45px;
+  width: 40%;
+
+}
+
+.gratuit{
+  margin-top: 55px;
+  margin-left: 55px;
+  font-size: 25px;
+  font-weight: bolder;
+
+}
+
+.besoin{
+  margin-left: -230px;
+}
+
+.besoin3{
+  font-size: 80px;
+  margin-top: 550px;
+  font-weight: bolder;
+  color: #FF4345;
+}
+
+.besoin2{
+  padding-top: 150px;
+}
+
+.jang{
+  height: 400px;
+  background-color: #FF4345;
+  margin-left: 100px;
+  border-radius: 10px;
+
+}
+
+.jangale{
+  height: 400px;
+  background-color: #05C5EA;
+  margin-left: 50px;
+  border-radius: 10px;
+}
+
+
+.iconejang{
+  margin-top: -45px;
+  margin-left: 65px;
+}
+
+h2{
+  font-size: 30px;
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: -65px;
+}
+
+.textjang{
+  font-size: 18px;
+  color: white;
+}
+
+.bouttonjang{
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 100px;
+}
+
+.bouttonjangale{
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 130px;
+}
+
+.dispo{
+  margin-top: 75px;
+}
+.dispo1{
+  height: 530px;
+  background-color: #04DAE2;
+  padding-top: 70px;
+}
+
+.desc{
+margin-left: 55px;
+}
+.dispo2{
+  height: 530px;
+  background-color: #04DAE2;
+}
+
+.terminal{
+  margin-left: -245px;
+}
+
+.h3{
+  font-size: 45px;
+  color: #0E4C71;
+  font-weight: bolder;
+}
+.h2{
+  font-size: 30px;
+  color: #0E4C71;
+  font-weight: bolder;
+  float: left;
+}
+
+
+.desc1{
+  margin-top: 20px;
+  font-size: 25px;
+  color: #0E4C71;
+  font-weight: bolder;
+}
+
+.desc2{
+  margin-top: 10px;
+  font-size: 20px;
+  color: #0E4C71;
+}
+
+.jemelance{
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 130px;
+  margin-top: 30px;
+}
+.sms{
+  margin-left: -40px;
+}
+.mess1{
+  margin-top: 50px;
+  padding-top: 100px;
+  margin-left: 55px;
+}
+.mess{
+  margin-top: 100px;
+}
+.desce{
+  font-size: 20px;
+  color: #FF4345;
+}
+
+.s1{
+  font-size: 50px;
+  font-weight: bolder;
+  color: #0E4C71;
+  text-align: center;
+}
+
+.ss{
+  text-align: center
+}
+
+.s2{
+  font-size: 40px;
+  color:  #FF4345;
+  line-height: 20px;
+
+}
+
+
+.footer{
+  background-color: #0D4B70
+}
+
+
+.f1{
+color: white;
+margin-left: 23px;
+margin-top: -50px;
+font-size: 25px;
+}
+
+.f{
+  margin-left: -80px;
+}
+
+.discover{
+  font-size: 30px;
+  font-weight: bolder;
+  color: white;
+}
+
+
+.discovers{
+  font-size: 30px;
+  font-weight: bolder;
+  color: white;
+  margin-left: 50px;
+}
+
+.span{
+  font-size: 23px;
+  color: white;
+}
+
+.footer2{
+  margin-top: 70px;
+}
+
+.footer3{
+  margin-top: 70px;
+  float: right;
+  padding-left: 70px;
+}
+
+
+.footers{
+  padding: 30px;
+  background-color:#FF4048;
+  
+
+}
+
+.st{
+  font-size: 22px;
+  color: white;
+}
+
